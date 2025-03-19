@@ -56,13 +56,14 @@ main {
     box-shadow: 0 0 5px var(--t2);
     gap: 10px;
     & img {
-        max-width: 250 px;
+        max-width: 250px;
     }
     & button {
         background-color: var(--c3);
         border: none;
         padding: 5px 10px;
         border-radius: 5px;
+        box-shadow: 0 0 5px var(--t2);
         font-weight: bold;
         cursor: pointer;
     }
